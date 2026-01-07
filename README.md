@@ -1,7 +1,6 @@
 #S RSSFeedsList
 A curated list of RSS Feeds I use with LinkWarden's RSS service.
 
-
 ## Business & Economy News
 -------|-------|------------------
 NPR Business News | NPR | https://feeds.npr.org/1006/rss.xml

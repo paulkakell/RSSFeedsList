@@ -2,12 +2,14 @@
 A curated list of RSS Feeds I use with LinkWarden's RSS service.
 
 ## Business & Economy News
+Name | Source | RSS Feed Url
 -------|-------|------------------
 NPR Business News | NPR | https://feeds.npr.org/1006/rss.xml
 NPR Economy News | NPR | https://feeds.npr.org/1017/rss.xml
 NPR Money News | NPR | https://feeds.npr.org/1018/rss.xml
 
 ## Cybersecurity News
+Name | Source | RSS Feed Url
 -------|-------|------------------
 
 ## Culture & Society
@@ -65,6 +67,7 @@ NPR Politics News | NPR | https://feeds.npr.org/1014/rss.xml
 Politico Picks | Politico | https://www.politico.com/rss/politicopicks.xml
 
 ## Science News
+Name | Source | RSS Feed Url
 -------|-------|------------------
 60-Second Science | Scientific American | http://rss.sciam.com/sciam/60secsciencepodcast
 NPR Science News | NPR | https://feeds.npr.org/1007/rss.xml
@@ -82,6 +85,7 @@ Sky and Telescope | Sky and Telescope | https://www.skyandtelescope.com/feed/
 Space.com | Space.com | https://www.space.com/feeds/all
 
 ## Technology News
+Name | Source | RSS Feed Url
 -------|-------|------------------
 NPR Tech News | NPR | https://feeds.npr.org/1019/rss.xml
 
